@@ -652,7 +652,7 @@ public class Script
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/Mediaportal-Plugin-Team/LogoManager/releases/download/v[Version]/LogoManager-[Version].mpe1</OnlineLocation>
-    <ReleaseDate>2024-05-30T23:14:39</ReleaseDate>
+    <ReleaseDate>2024-05-30T20:20:20</ReleaseDate>
     <Tags>logo,logos,tv,radio</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>LogoManager-[Version].mpe1</Location>

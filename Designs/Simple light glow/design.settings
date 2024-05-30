@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<effects>
+		<effect enabled="yes" type="glow" radius="10" color="Silver" lightness_threshold="0.35" active_part="below" />
+		<effect enabled="yes" type="outerglow" width="1" color="White" transparency="0.7" lightness_threshold="0.35" active_part="below" />		
+		<effect enabled="no" type="resize" minX="170" maxX="200" resizedX="190" minY="130" maxY="150" resizedY="140" />
+		<effect enabled="yes" type="resize" minXY="160" maxXY="200" resizedXY="200" />
+	</effects>
+</settings>

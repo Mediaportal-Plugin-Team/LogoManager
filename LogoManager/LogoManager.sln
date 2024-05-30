@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogoManager", "LogoManager\LogoManager.csproj", "{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogoMappingChecker", "LogoMappingChecker\LogoMappingChecker.csproj", "{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Release|x64.ActiveCfg = Release|Any CPU
+		{6EA951BE-4D8A-4ECE-BE03-DE8280823A64}.Release|x86.ActiveCfg = Release|Any CPU
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Debug|x64.ActiveCfg = Debug|x64
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Debug|x64.Build.0 = Debug|x64
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Debug|x86.ActiveCfg = Debug|x86
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Debug|x86.Build.0 = Debug|x86
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Release|Any CPU.ActiveCfg = Release|x86
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Release|x64.ActiveCfg = Release|x64
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Release|x64.Build.0 = Release|x64
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Release|x86.ActiveCfg = Release|x86
+		{A5C5137E-CCC1-4BD4-A956-FBCB14AF3041}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EB6FD8-3C1A-4112-9FF8-CA5616BAA6E6}
+	EndGlobalSection
+EndGlobal

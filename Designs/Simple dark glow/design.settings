@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<effects>
+		<effect enabled="yes" type="glow" radius="5" color="Black" />
+		<effect enabled="yes" type="outerglow" width="1" color="Black" transparency="0.7" />
+	</effects>
+</settings>

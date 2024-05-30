@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2.0</Version>
+  <Groups>
+    <Items>
+      <GroupItem Name="Designs">
+        <ParentGroup />
+        <DisplayName>Designs</DisplayName>
+        <DefaulChecked>true</DefaulChecked>
+        <Description>Designs</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Classic\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{303b714e-77e5-433c-862c-3cabef7222cf}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Classic\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7b654e50-272d-4a8f-998f-eb5b41fb31d5}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Classic\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{55f0abaf-aba2-4cc2-b22b-60391627d852}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{59a6383f-d2ab-40d2-88a4-9f2cf0cab8c2}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern\Overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ce06e6e6-37ef-4225-9cb9-b5d5f5266b52}-Overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\Overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ee447cd5-428e-4fcc-b72b-5db9daab6a92}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3587cae5-733d-4c38-86e0-2babe8497e53}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4654776e-c957-4f80-8437-0081a3f537cd}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{26a6cf51-629c-4a51-9450-3c5cbcc1fef7}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{253530b6-e77e-4d29-9525-4fedef52836a}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{048d0c9f-2b9f-413f-a9a1-212a5dcd3ac2}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4f32588c-df61-4c91-bf3a-4e01078bffa1}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fc3d6bb8-2c19-4c54-a112-96d86144450d}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple light glow\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{11522ec1-668e-456a-ae02-a04195a1cfa0}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple light glow\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{83eac12e-4263-4272-bc6e-8f565af271e0}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple light glow\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fc859a60-f2a0-4609-8190-05bfd4f7ecc7}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple light glow\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3795e250-96a9-4a39-af38-030b0a21e13b}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\sample.png</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
+      <GroupItem Name="Plugin">
+        <ParentGroup />
+        <DisplayName>Plugin</DisplayName>
+        <DefaulChecked>true</DefaulChecked>
+        <Description>Plugin</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Config\LogoManager.config</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bb8d0050-8d39-4fb4-aa42-64bdd0c718b0}-LogoManager.config</ZipFileName>
+              <DestinationFilename>%Config%\LogoManager.config</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\LogoManager\LogoManager\bin\Release\LogoManager.dll</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{21a16381-88ab-4a8b-8836-faef4a23eeca}-LogoManager.dll</ZipFileName>
+              <DestinationFilename>%Plugins%\Windows\LogoManager.dll</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>extension_settings.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{833765ac-a798-4128-bd9a-95eca6a09603}-extension_settings.xml</ZipFileName>
+              <DestinationFilename>%Base%\extension_settings.xml</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
+      <GroupItem Name="Skin">
+        <ParentGroup />
+        <DisplayName>Skin</DisplayName>
+        <DefaulChecked>true</DefaulChecked>
+        <Description>Skin</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\DefaultWide\DialogPreview.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c25b3df8-0e33-4788-a1d4-6d1c1e8b0c21}-DialogPreview.xml</ZipFileName>
+              <DestinationFilename>%Skin%\DefaultWide\DialogPreview.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\DefaultWide\LogoManager.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b3c22939-d440-477d-aef8-2a1e93d95200}-LogoManager.xml</ZipFileName>
+              <DestinationFilename>%Skin%\DefaultWide\LogoManager.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\Titan\DialogPreview.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{05268cef-af6b-4c1e-a50d-042251d3a3fc}-DialogPreview.xml</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\DialogPreview.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\Titan\LogoManager.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c19e3352-3591-4d98-87a2-c69ef3860cd4}-LogoManager.xml</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\LogoManager.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\DefaultWide\DialogCheckList.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{18f90e64-f750-40a9-9f15-c9f3e4dd3918}-DialogCheckList.xml</ZipFileName>
+              <DestinationFilename>%Skin%\DefaultWide\DialogCheckList.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\Titan\DialogCheckList.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e7f36fe3-3d86-49ad-a6b8-a9495bc84d46}-DialogCheckList.xml</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\DialogCheckList.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\Titan\Media\hover_LogoManager.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{62e3774d-c95c-4ebf-86af-d08f50082871}-hover_LogoManager.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\hover_LogoManager.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\StreamedMP\DialogCheckList.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d2f58eaf-0bec-4d2d-b06e-f7ddd8b45737}-DialogCheckList.xml</ZipFileName>
+              <DestinationFilename>%Skin%\StreamedMP\DialogCheckList.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\StreamedMP\DialogPreview.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{040372f5-6dad-417b-b959-f5990122dc9d}-DialogPreview.xml</ZipFileName>
+              <DestinationFilename>%Skin%\StreamedMP\DialogPreview.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\StreamedMP\LogoManager.xml</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{aea9c3b6-bd6d-4430-bd54-c72b6c101266}-LogoManager.xml</ZipFileName>
+              <DestinationFilename>%Skin%\StreamedMP\LogoManager.xml</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>..\Skin\StreamedMP\Media\hover_LogoManager.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e5fc1472-bfa4-4172-884e-3f1b02bbaaab}-hover_LogoManager.png</ZipFileName>
+              <DestinationFilename>%Skin%\StreamedMP\hover_LogoManager.png</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
+    </Items>
+  </Groups>
+  <Sections>
+    <Items>
+      <SectionItem Guid="604fede5-4d58-406d-88f5-b8332d7d675e" Name="Welcome Screen" ConditionGroup="" Condition="None">
+        <Params>
+          <Items>
+            <SectionParam Name="Header text">
+              <Value>Welcome to the Extension Installer for [Name]</Value>
+              <ValueType>String</ValueType>
+              <Description />
+            </SectionParam>
+            <SectionParam Name="Description">
+              <Value>This will install [Name] version [Version] on your computer.
+It is recommended that you close all other applications before continuing.
+Click Next to continue or Cancel to exit Setup.</Value>
+              <ValueType>String</ValueType>
+              <Description />
+            </SectionParam>
+            <SectionParam Name="Left part image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description />
+            </SectionParam>
+            <SectionParam Name="Header image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description>Image in upper right part</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+        <Actions>
+          <Items />
+        </Actions>
+        <IncludedGroups />
+        <PanelName>Welcome Screen</PanelName>
+        <WizardButtonsEnum>NextCancel</WizardButtonsEnum>
+      </SectionItem>
+      <SectionItem Guid="0098433e-2edf-44b9-82b0-e4ad561e2406" Name="Install Section" ConditionGroup="" Condition="None">
+        <Params>
+          <Items>
+            <SectionParam Name="Header Title">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Header title</Description>
+            </SectionParam>
+            <SectionParam Name="Header description">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Description of section, shown in under section title</Description>
+            </SectionParam>
+            <SectionParam Name="Header image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description>Image in upper right part</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+        <Actions>
+          <Items>
+            <ActionItem Name="InstallFiles" ActionType="InstallFiles" ConditionGroup="" Condition="None">
+              <Params>
+                <Items />
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\..\Designs\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value>NO</Value>
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\sources\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\Simple</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\Simple\tv\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\Simple\radio\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\sources\tv\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="CreateFolder" ActionType="CreateFolder" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Folder location">
+                    <Value>%Thumbs%\LogoManager\sources\radio\</Value>
+                    <ValueType>Template</ValueType>
+                    <Description>Location of folder</Description>
+                  </SectionParam>
+                  <SectionParam Name="Remove on Uninstall">
+                    <Value />
+                    <ValueType>Bool</ValueType>
+                    <Description>Remove on UnInstall</Description>
+                  </SectionParam>
+                  <SectionParam Name="Question on UnInstall">
+                    <Value />
+                    <ValueType>String</ValueType>
+                    <Description>Quetion asked from user when UnInstall.
+ With Yes response the folder will be deleted
+ If empty no question will be asked and no folder will be deleted</Description>
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>AfterPanelShow</ExecuteLocation>
+            </ActionItem>
+            <ActionItem Name="Script" ActionType="Script" ConditionGroup="" Condition="None">
+              <Params>
+                <Items>
+                  <SectionParam Name="Script">
+                    <Value>//css_reference "MpeCore.dll";
+
+using MpeCore.Classes;
+using MpeCore;
+using System.IO;
+
+public class Script
+{
+    public static void Main(PackageClass packageClass, ActionItem actionItem)
+    {
+      string oldDll = Path.Combine(MpeInstaller.TransformInRealPath("%Skin%"), @"Windows\LogosManager.dll");
+
+    try
+    {
+      if (File.Exists(oldDll))
+     {
+        File.Delete(oldDll);
+     }
+    }
+    catch {}
+    DirectoryInfo skinroot = new DirectoryInfo(MpeInstaller.TransformInRealPath("%Skin%"));
+    DirectoryInfo[] skins = skinroot.GetDirectories();
+    foreach (DirectoryInfo skin in skins)
+   {
+
+    try
+    {
+    if(File.Exists(Path.Combine(skin.FullName, "LogosManager.xml")))
+        {
+         File.Delete(Path.Combine(skin.FullName, "LogosManager.xml"));
+         }
+     }
+    catch {}
+              
+      }
+
+
+        return;
+    }
+}
+</Value>
+                    <ValueType>Script</ValueType>
+                    <Description />
+                  </SectionParam>
+                  <SectionParam Name="Uninstall Script">
+                    <Value>//css_reference "MpeCore.dll";
+
+using MpeCore.Classes;
+using MpeCore;
+
+public class Script
+{
+    public static void Main(PackageClass packageClass, UnInstallItem item)
+    {
+        return;
+    }
+}
+</Value>
+                    <ValueType>Script</ValueType>
+                    <Description />
+                  </SectionParam>
+                </Items>
+              </Params>
+              <ExecuteLocation>BeforPanelShow</ExecuteLocation>
+            </ActionItem>
+          </Items>
+        </Actions>
+        <IncludedGroups />
+        <PanelName>Install Section</PanelName>
+        <WizardButtonsEnum>Next</WizardButtonsEnum>
+      </SectionItem>
+      <SectionItem Guid="a369e8b6-8597-46ab-b4d8-9c5a96acb7bb" Name="Setup Complete" ConditionGroup="" Condition="None">
+        <Params>
+          <Items>
+            <SectionParam Name="Header text">
+              <Value>The Extension Installer Wizard has successfully installed [Name].</Value>
+              <ValueType>String</ValueType>
+              <Description />
+            </SectionParam>
+            <SectionParam Name="Left part image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description />
+            </SectionParam>
+            <SectionParam Name="Show radio buttons">
+              <Value />
+              <ValueType>Bool</ValueType>
+              <Description>Use radiobutton in place of combobox</Description>
+            </SectionParam>
+            <SectionParam Name="Header image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description>Image in upper right part</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+        <Actions>
+          <Items />
+        </Actions>
+        <IncludedGroups />
+        <PanelName>Setup Complete</PanelName>
+        <WizardButtonsEnum>Finish</WizardButtonsEnum>
+      </SectionItem>
+    </Items>
+  </Sections>
+  <Dependencies>
+    <Items>
+      <DependencyItem>
+        <Type>MediaPortal</Type>
+        <Id />
+        <MinVersion>
+          <Major>*</Major>
+          <Minor>*</Minor>
+          <Build>*</Build>
+          <Revision>*</Revision>
+        </MinVersion>
+        <MaxVersion>
+          <Major>*</Major>
+          <Minor>*</Minor>
+          <Build>*</Build>
+          <Revision>*</Revision>
+        </MaxVersion>
+        <WarnOnly>true</WarnOnly>
+        <Message />
+        <Name>MediaPortal</Name>
+        <Condition>None</Condition>
+      </DependencyItem>
+    </Items>
+  </Dependencies>
+  <PluginDependencies>
+    <Items>
+      <PluginDependencyItem AssemblyName="LogoManager.dll">
+        <CompatibleVersion>
+          <Items>
+            <CompatibleVersionItem>
+              <MinRequiredVersion>1.1.6.27644</MinRequiredVersion>
+              <DesignedForVersion>1.1.6.27644</DesignedForVersion>
+            </CompatibleVersionItem>
+          </Items>
+        </CompatibleVersion>
+        <SubSystemsUsed>
+          <Items />
+        </SubSystemsUsed>
+      </PluginDependencyItem>
+    </Items>
+  </PluginDependencies>
+  <GeneralInfo>
+    <Name>Logo Manager</Name>
+    <Id>bf0898e0-0866-4f52-be7e-4f504b978944</Id>
+    <Author>Vasilich, Edalex</Author>
+    <HomePage>https://www.assembla.com/spaces/mediaportal/stream</HomePage>
+    <ForumPage>http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-3013.119376/</ForumPage>
+    <UpdateUrl>https://raw.githubusercontent.com/Mediaportal-Plugin-Team/LogoManager/master/MPEI/update.xml</UpdateUrl>
+    <Version>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Build>5</Build>
+      <Revision>0</Revision>
+    </Version>
+    <ExtensionDescription>Multinational plugin for downloading tv and radio logos from online repositories replacing existing logo packs</ExtensionDescription>
+    <VersionDescription>- Trasfer to Mediaportal repository
+</VersionDescription>
+    <DevelopmentStatus>Stable</DevelopmentStatus>
+    <OnlineLocation>https://github.com/Mediaportal-Plugin-Team/LogoManager/releases/download/v[Version]/LogoManager-[Version].mpe1</OnlineLocation>
+    <ReleaseDate>2024-05-30T23:14:39</ReleaseDate>
+    <Tags>logo,logos,tv,radio</Tags>
+    <PlatformCompatibility>AnyCPU</PlatformCompatibility>
+    <Location>LogoManager-[Version].mpe1</Location>
+    <Params>
+      <Items>
+        <SectionParam Name="Icon">
+          <Value />
+          <ValueType>File</ValueType>
+          <Description>The icon file of the package (jpg,png,bmp)</Description>
+        </SectionParam>
+        <SectionParam Name="Online Icon">
+          <Value />
+          <ValueType>String</ValueType>
+          <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
+        </SectionParam>
+        <SectionParam Name="Configuration file">
+          <Value />
+          <ValueType>Template</ValueType>
+          <Description>The file used to configure the extension.
+ If it has .exe extension the will be executed.
+ If it has .dll extension it's started like MP plugin configuration.</Description>
+        </SectionParam>
+        <SectionParam Name="Online Screenshots">
+          <Value>https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1996.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1997.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1998.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1999.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/2000.jpg</Value>
+          <ValueType>String</ValueType>
+          <Description>Online stored screenshot urls separated by ; </Description>
+        </SectionParam>
+        <SectionParam Name="Force to uninstall on update">
+          <Value>YES</Value>
+          <ValueType>Bool</ValueType>
+          <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
+        </SectionParam>
+      </Items>
+    </Params>
+  </GeneralInfo>
+  <UniqueFileList>
+    <Items>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Classic\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{303b714e-77e5-433c-862c-3cabef7222cf}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Classic\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7b654e50-272d-4a8f-998f-eb5b41fb31d5}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Classic\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{55f0abaf-aba2-4cc2-b22b-60391627d852}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Classic\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{59a6383f-d2ab-40d2-88a4-9f2cf0cab8c2}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern\Overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ce06e6e6-37ef-4225-9cb9-b5d5f5266b52}-Overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\Overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ee447cd5-428e-4fcc-b72b-5db9daab6a92}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3587cae5-733d-4c38-86e0-2babe8497e53}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4654776e-c957-4f80-8437-0081a3f537cd}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{26a6cf51-629c-4a51-9450-3c5cbcc1fef7}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{253530b6-e77e-4d29-9525-4fedef52836a}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{048d0c9f-2b9f-413f-a9a1-212a5dcd3ac2}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4f32588c-df61-4c91-bf3a-4e01078bffa1}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass\design.settings</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fc3d6bb8-2c19-4c54-a112-96d86144450d}-design.settings</ZipFileName>
+        <DestinationFilename>%Thumbs%\Logomanager\..\Designs\Dark Glass\design.settings</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple light glow\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{11522ec1-668e-456a-ae02-a04195a1cfa0}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple light glow\design.settings</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{83eac12e-4263-4272-bc6e-8f565af271e0}-design.settings</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\design.settings</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple light glow\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fc859a60-f2a0-4609-8190-05bfd4f7ecc7}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple light glow\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3795e250-96a9-4a39-af38-030b0a21e13b}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Config\LogoManager.config</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bb8d0050-8d39-4fb4-aa42-64bdd0c718b0}-LogoManager.config</ZipFileName>
+        <DestinationFilename>%Config%\LogoManager.config</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\LogoManager\LogoManager\bin\Release\LogoManager.dll</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{21a16381-88ab-4a8b-8836-faef4a23eeca}-LogoManager.dll</ZipFileName>
+        <DestinationFilename>%Plugins%\Windows\LogoManager.dll</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>extension_settings.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{833765ac-a798-4128-bd9a-95eca6a09603}-extension_settings.xml</ZipFileName>
+        <DestinationFilename>%Base%\extension_settings.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\DefaultWide\DialogPreview.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c25b3df8-0e33-4788-a1d4-6d1c1e8b0c21}-DialogPreview.xml</ZipFileName>
+        <DestinationFilename>%Skin%\DefaultWide\DialogPreview.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\DefaultWide\LogoManager.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b3c22939-d440-477d-aef8-2a1e93d95200}-LogoManager.xml</ZipFileName>
+        <DestinationFilename>%Skin%\DefaultWide\LogoManager.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\Titan\DialogPreview.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{05268cef-af6b-4c1e-a50d-042251d3a3fc}-DialogPreview.xml</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\DialogPreview.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\Titan\LogoManager.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c19e3352-3591-4d98-87a2-c69ef3860cd4}-LogoManager.xml</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\LogoManager.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\DefaultWide\DialogCheckList.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{18f90e64-f750-40a9-9f15-c9f3e4dd3918}-DialogCheckList.xml</ZipFileName>
+        <DestinationFilename>%Skin%\DefaultWide\DialogCheckList.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\Titan\DialogCheckList.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e7f36fe3-3d86-49ad-a6b8-a9495bc84d46}-DialogCheckList.xml</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\DialogCheckList.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\Titan\Media\hover_LogoManager.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{62e3774d-c95c-4ebf-86af-d08f50082871}-hover_LogoManager.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\hover_LogoManager.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\StreamedMP\DialogCheckList.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d2f58eaf-0bec-4d2d-b06e-f7ddd8b45737}-DialogCheckList.xml</ZipFileName>
+        <DestinationFilename>%Skin%\StreamedMP\DialogCheckList.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\StreamedMP\DialogPreview.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{040372f5-6dad-417b-b959-f5990122dc9d}-DialogPreview.xml</ZipFileName>
+        <DestinationFilename>%Skin%\StreamedMP\DialogPreview.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\StreamedMP\LogoManager.xml</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{aea9c3b6-bd6d-4430-bd54-c72b6c101266}-LogoManager.xml</ZipFileName>
+        <DestinationFilename>%Skin%\StreamedMP\LogoManager.xml</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>..\Skin\StreamedMP\Media\hover_LogoManager.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e5fc1472-bfa4-4172-884e-3f1b02bbaaab}-hover_LogoManager.png</ZipFileName>
+        <DestinationFilename>%Skin%\StreamedMP\hover_LogoManager.png</DestinationFilename>
+      </FileItem>
+    </Items>
+  </UniqueFileList>
+  <ProjectSettings>
+    <FolderGroups>
+      <FolderGroup InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName />
+        <ZipFileName>Installer{CopyFile}\{8ba9bfe6-eec8-4081-bf3c-789376d598ec}-</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\</DestinationFilename>
+        <Folder>..\Designs</Folder>
+        <Group>Designs</Group>
+        <Recursive>true</Recursive>
+      </FolderGroup>
+    </FolderGroups>
+    <ProjectFilename>LogoManager.xmp2</ProjectFilename>
+    <UpdatePath1>update.xml</UpdatePath1>
+    <UpdatePath2 />
+    <UpdatePath3 />
+  </ProjectSettings>
+  <IsSkin>false</IsSkin>
+</PackageClass>

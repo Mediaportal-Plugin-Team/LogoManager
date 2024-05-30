@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <effects>
+        <effect enabled="yes" type="outerglow" width="2" color="White" transparency="1.0" lightness_threshold="1.0" active_part="below" /> 
+    </effects>
+</settings>

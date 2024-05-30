@@ -1,0 +1,10 @@
+﻿<extension_settings>
+	<disable_entry>
+		<setting entryname="plugins" name="LogoManager" displayname="Plugin Enabled" defaultvalue="yes" type="string" listvalues="yes|no" displaylistvalues="Yes|No"/> 
+	</disable_entry>
+	<settings section="Plugin">
+			<setting entryname="plugins" name="LogoManager" displayname="Plugin Enabled" defaultvalue="yes" type="string" listvalues="yes|no" displaylistvalues="Yes|No" description="Enable / Disable this setting to control if LogoManager is loaded with MediaPortal." /> 
+			<setting entryname="home" name="LogoManager" displayname="Listed in Home" defaultvalue="yes" type="string" listvalues="yes|no" displaylistvalues="Yes|No" description="Enable this setting for LogoManager plugin to appear in the main Home screen menu items." /> 
+			<setting entryname="myplugins" name="LogoManager" displayname="Listed in My Plugins" defaultvalue="no" type="string" listvalues="yes|no" displaylistvalues="Yes|No" description="Enable this setting for LogoManager plugin to appear in the Plugins screen menu items." />
+  </settings>
+</extension_settings>

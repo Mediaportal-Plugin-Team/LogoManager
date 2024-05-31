@@ -9,6 +9,14 @@
 
 **LogoManager** TV & Radio logos downloader plugin for Mediaportal.
 
-## Notes
+### Features
+- Downloading TV and Radio logos from online repository​
+- Applying custom design to logos (Idea was taken from MPLogoCreator plugin)​
+- Selecting country packages​
+- Rebuilding logos cache on plugin exit (code from MyRefresh plugin)​
 
-Original https://app.assembla.com/spaces/mediaportal/subversion/source/HEAD/trunk/LogoManager
+> [!TIP]
+> Commented example of [design settings file](https://guest:guest@subversion.assembla.com/svn/mediaportal.LogoManager/trunk/LogoManager/LogoManager/designs/Modern%204x3%20resized/design.settings)
+
+> [!NOTE]
+> Based on original [LogoManager](https://app.assembla.com/spaces/mediaportal/subversion/source/HEAD/trunk/LogoManager)

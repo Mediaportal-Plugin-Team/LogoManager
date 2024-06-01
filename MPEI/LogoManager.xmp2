@@ -129,6 +129,244 @@
               <ZipFileName>Installer{CopyFile}\{3795e250-96a9-4a39-af38-030b0a21e13b}-sample.png</ZipFileName>
               <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\sample.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Blue Metal\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f3503888-0ccd-45ef-9b02-a887f03399ad}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Blue Metal\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c332a1b4-27ca-45bc-a34b-b4ccf8ab59da}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Blue Metal\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e65886d8-f31f-4722-be29-2422becd5b74}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3b70a287-b50a-4602-b070-260578e209bf}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6fdb629d-4725-48d9-a68b-25b01f6c29bd}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{eb7b36b9-032f-4093-9515-56ea3c301f19}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7116d711-e94f-4b2e-af50-349e265c33bb}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass (Vuego)\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9a126938-63bb-4e2a-bcb0-f6d17b519692}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass (Vuego)\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7c9d66dd-78ba-47ff-91bd-59dc803d7268}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass (Vuego)\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b29c5858-1e4a-4e01-8bd0-771348824faa}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Dark Glass (Vuego)\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{74b396b5-0676-4590-b212-94c259d92d64}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Glossy\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c4ccede3-86c7-488e-9bf7-5a62ad19077c}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Glossy\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a8b6e6a2-f486-49c8-bce6-bdb32f0749ae}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Glossy\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{57a56662-dc29-48bd-953f-fd4dbc8d019b}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Green Glass\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{79c06727-c5b5-4c9e-be17-16ce8406bfd0}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Green Glass\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2c9d03b3-e7e5-47ba-ae19-90cbde205e30}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Green Glass\Sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{18084b32-42a6-40dd-bec7-584edb27e044}-Sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\Sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern 4x3 resized\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0e140cd5-8437-40a4-bd2c-3af5b838c8be}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern 4x3 resized\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0ee5e162-77af-4682-a243-ae82b06395a5}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern 4x3 resized\Overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{39af3d98-2a3c-4e76-b781-7898cc8513ae}-Overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\Overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern 4x3 resized\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7b6e24ab-d290-4a4e-a5ed-7806f9b4f2d9}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern-StreamedMP\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f12f251d-a046-4d3d-b65d-44087c7e77a6}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern-StreamedMP\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cd1c352b-1617-4bb3-a842-ed9553cc6e56}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Modern-StreamedMP\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{aa8b9b15-3ce2-48f9-bfdf-6044176b469f}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Purple Glass\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{42a5a2b3-77ae-4a06-b471-8dffe54387ad}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Purple Glass\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{013a221b-8c3e-49db-a53d-9d5877fd5a5c}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Purple Glass\Sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d8205ae8-b049-4a77-93fa-0599591578f8}-Sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\Sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple dark glow\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bb55b1cf-9e82-481e-be9a-fa9351cf5666}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple dark glow\design.settings</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4447ce33-28c4-4695-b2a9-bd4712235105}-design.settings</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\design.settings</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple dark glow\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8288b733-6a80-40fb-9c97-487412138a84}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Simple dark glow\sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6249240c-ee7f-47ae-ac86-7663ca000513}-sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\sample.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Yellow Glass\background.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6b797f7f-dd0f-4227-8650-9a170f74a3e4}-background.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\background.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Yellow Glass\overlay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{58d2709d-3ab7-4eda-ac41-75fb04d3dca7}-overlay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\overlay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Designs\Yellow Glass\Sample.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d1f47214-ab43-4f0a-b1a0-edf4ff86a396}-Sample.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\Sample.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -618,21 +856,7 @@ public class Script
     </Items>
   </Dependencies>
   <PluginDependencies>
-    <Items>
-      <PluginDependencyItem AssemblyName="LogoManager.dll">
-        <CompatibleVersion>
-          <Items>
-            <CompatibleVersionItem>
-              <MinRequiredVersion>1.1.6.27644</MinRequiredVersion>
-              <DesignedForVersion>1.1.6.27644</DesignedForVersion>
-            </CompatibleVersionItem>
-          </Items>
-        </CompatibleVersion>
-        <SubSystemsUsed>
-          <Items />
-        </SubSystemsUsed>
-      </PluginDependencyItem>
-    </Items>
+    <Items />
   </PluginDependencies>
   <GeneralInfo>
     <Name>Logo Manager</Name>
@@ -648,11 +872,12 @@ public class Script
       <Revision>0</Revision>
     </Version>
     <ExtensionDescription>Multinational plugin for downloading tv and radio logos from online repositories replacing existing logo packs</ExtensionDescription>
-    <VersionDescription>- Trasfer to Mediaportal repository
+    <VersionDescription>- LogoManager.config update
+
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/Mediaportal-Plugin-Team/LogoManager/releases/download/v[Version]/LogoManager-[Version].mpe1</OnlineLocation>
-    <ReleaseDate>2024-05-30T20:20:20</ReleaseDate>
+    <ReleaseDate>2024-06-01T19:19:19</ReleaseDate>
     <Tags>logo,logos,tv,radio</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>LogoManager-[Version].mpe1</Location>
@@ -808,6 +1033,216 @@ public class Script
         <LocalFileName>..\Designs\Simple light glow\sample.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3795e250-96a9-4a39-af38-030b0a21e13b}-sample.png</ZipFileName>
         <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple light glow\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Blue Metal\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f3503888-0ccd-45ef-9b02-a887f03399ad}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Blue Metal\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c332a1b4-27ca-45bc-a34b-b4ccf8ab59da}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Blue Metal\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e65886d8-f31f-4722-be29-2422becd5b74}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Blue Metal\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass (Vuego)\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9a126938-63bb-4e2a-bcb0-f6d17b519692}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass (Vuego)\design.settings</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7c9d66dd-78ba-47ff-91bd-59dc803d7268}-design.settings</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\design.settings</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass (Vuego)\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b29c5858-1e4a-4e01-8bd0-771348824faa}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Dark Glass (Vuego)\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{74b396b5-0676-4590-b212-94c259d92d64}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Dark Glass (Vuego)\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Glossy\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c4ccede3-86c7-488e-9bf7-5a62ad19077c}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Glossy\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a8b6e6a2-f486-49c8-bce6-bdb32f0749ae}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Glossy\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{57a56662-dc29-48bd-953f-fd4dbc8d019b}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Glossy\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Green Glass\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{79c06727-c5b5-4c9e-be17-16ce8406bfd0}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Green Glass\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2c9d03b3-e7e5-47ba-ae19-90cbde205e30}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Green Glass\Sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{18084b32-42a6-40dd-bec7-584edb27e044}-Sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Green Glass\Sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern 4x3 resized\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0e140cd5-8437-40a4-bd2c-3af5b838c8be}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern 4x3 resized\design.settings</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0ee5e162-77af-4682-a243-ae82b06395a5}-design.settings</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\design.settings</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern 4x3 resized\Overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{39af3d98-2a3c-4e76-b781-7898cc8513ae}-Overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\Overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern 4x3 resized\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7b6e24ab-d290-4a4e-a5ed-7806f9b4f2d9}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern 4x3 resized\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern-StreamedMP\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f12f251d-a046-4d3d-b65d-44087c7e77a6}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern-StreamedMP\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cd1c352b-1617-4bb3-a842-ed9553cc6e56}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Modern-StreamedMP\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{aa8b9b15-3ce2-48f9-bfdf-6044176b469f}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Modern-StreamedMP\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Purple Glass\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{42a5a2b3-77ae-4a06-b471-8dffe54387ad}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Purple Glass\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{013a221b-8c3e-49db-a53d-9d5877fd5a5c}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Purple Glass\Sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d8205ae8-b049-4a77-93fa-0599591578f8}-Sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Purple Glass\Sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple dark glow\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bb55b1cf-9e82-481e-be9a-fa9351cf5666}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple dark glow\design.settings</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4447ce33-28c4-4695-b2a9-bd4712235105}-design.settings</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\design.settings</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple dark glow\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8288b733-6a80-40fb-9c97-487412138a84}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Simple dark glow\sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6249240c-ee7f-47ae-ac86-7663ca000513}-sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Simple dark glow\sample.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Yellow Glass\background.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6b797f7f-dd0f-4227-8650-9a170f74a3e4}-background.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\background.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Yellow Glass\overlay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{58d2709d-3ab7-4eda-ac41-75fb04d3dca7}-overlay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\overlay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Designs\Yellow Glass\Sample.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d1f47214-ab43-4f0a-b1a0-edf4ff86a396}-Sample.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\LogoManager\..\Designs\Yellow Glass\Sample.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
         <Param1 />

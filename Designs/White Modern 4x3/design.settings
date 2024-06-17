@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<effects>
+		<effect enabled="yes" type="resize" minX="170" maxX="170" resizedX="170" minY="120" maxY="120" resizedY="120" />
+	</effects>
+</settings>

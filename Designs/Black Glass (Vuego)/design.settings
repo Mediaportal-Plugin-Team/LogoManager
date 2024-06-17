@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<effects>
+        <effect enabled="yes" type="outerglow" width="2" color="White" transparency="1.0" lightness_threshold="1.0" active_part="below" />
+		<effect enabled="yes" type="resize" minXY="200" maxXY="200" resizedXY="170" />
+	</effects>
+</settings>

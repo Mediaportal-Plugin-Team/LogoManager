@@ -342,6 +342,10 @@ namespace LogoManager
 				return;
 
 			DirectoryInfo[] designs = new DirectoryInfo(DesignsPath).GetDirectories();
+			if (designs.Length == 0)
+			{
+			  return;
+			}
 
 			dlg.Reset();
 			dlg.SetHeading("Select Layer Design");

@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <Channel>
+    <Name>Empty</Name>
+    <File>aa-amurskoe_oblastnoe_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>aa-animal_planet_europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>Animal Planet</Name>
+    <File>aa-animal_planet_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Астро ТВ </Name>
+    <File>aa-astro_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>AXN</Name>
+    <File>aa-axn_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>AXN Sci Fi</Name>
+    <File>aa-axn_scifi_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>A-One</Name>
+    <File>aa-a_one_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>bb-bashkirskoe_sputnikovoe_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>bb-bbc_entertainment_europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bloomberg</Name>
+    <File>bb-bloomberg_tv_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>bb-blue_hustler.png</File>
+  </Channel>
+  <Channel>
+    <Name>Боец ТВ </Name>
+    <Name>Боец ТВ</Name>
+    <File>bb-boets_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Бойцовский клуб</Name>
+    <File>bb-boytsovskiy_klub.png</File>
+  </Channel>
+  <Channel>
+    <Name>BRIDGE TV </Name>
+    <Name>BRIDGE TV</Name>
+    <File>bb-bridge_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>bb-bryanskaya_guberniya.png</File>
+  </Channel>
+  <Channel>
+    <Name>Cartoon Network</Name>
+    <File>cc-cartoon_network_ru_see.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBS Reality</Name>
+    <File>cc-cbs_reality_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>cc-channel9_il.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>cc-cnl_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>cc-cnl_new_life_channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>cc-cnl_sibir.png</File>
+  </Channel>
+  <Channel>
+    <Name>CNN International</Name>
+    <File>cc-cnn_international_europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>dd-da_vinci_learning.png</File>
+  </Channel>
+  <Channel>
+    <Name>Da Vinci</Name>
+    <File>dd-da_vinci_u.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>dd-detskij.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discovery HD Showcase</Name>
+    <File>dd-discovery_hd_showcase_us.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discovery</Name>
+    <File>dd-discovery_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>dd-diskoteka_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Канал Disney</Name>
+    <Name>Disney</Name>
+    <File>dd-disney_channel_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>DIVA Universal</Name>
+    <File>dd-diva_universal_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Домашний </Name>
+    <Name>Домашний</Name>
+    <File>dd-domashniy.png</File>
+  </Channel>
+  <Channel>
+    <Name>Дождь</Name>
+    <Name>Дождь </Name>
+    <File>dd-dozhd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>dd-dvtrk_dalnevostochnaya.png</File>
+  </Channel>
+  <Channel>
+    <Name>Еда </Name>
+    <File>ee-eda_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ee-ermak_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Еврокино</Name>
+    <File>ee-eurokino.png</File>
+  </Channel>
+  <Channel>
+    <Name>Euronews</Name>
+    <File>ee-euronews.png</File>
+  </Channel>
+  <Channel>
+    <Name>Europa Plus TV</Name>
+    <Name>Европа Плюс ТВ</Name>
+    <File>ee-europa_plus_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport</Name>
+    <File>ee-eurosport.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport 2</Name>
+    <File>ee-eurosport2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ee-eurosport2_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport HD</Name>
+    <File>ee-eurosport_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ee-eurosport_international.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ee-eurosport_news.png</File>
+  </Channel>
+  <Channel>
+    <Name>Эксперт</Name>
+    <File>ee-expert_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ff-family_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ff-fashion_one_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ff-fashion_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Феникс + кино</Name>
+    <File>ff-fenix_plus_kino.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ff-fox_crime_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fox Life</Name>
+    <File>ff-fox_life_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>FOX</Name>
+    <File>ff-fox_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Galaxy</Name>
+    <File>gg-galaxy_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_alania.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_altai.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_amur.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_bira.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_chechenskaya.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_elista.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_ghita.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_groznyj.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_ingushetia.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_irkutsk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_kamchatka.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_karelija.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_komi.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_kostroma.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_krasnoyarsk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_kurgan.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_kursk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_kuzbass.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_lipetsk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_magadan.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_orenburg.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_perm.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_pomorie.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_region_tyumen.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_sakha.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_sakhalin.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_samara.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_sankt_petersburg.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_tatarstan.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_tomsk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_tula.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_udmurtia.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_ugoria.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_ural.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_vladivostok.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_vologda.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_vyatka.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>gg-gtrk_yamal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Иллюзион+</Name>
+    <File>ii-illusion_plus.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>jj-jc_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Jim Jam</Name>
+    <File>jj-jim_jam_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Karusel int</Name>
+    <File>kk-karusel_international.png</File>
+  </Channel>
+  <Channel>
+    <Name>Карусель</Name>
+    <Name>Карусель </Name>
+    <File>kk-karusel_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Телеканал КХЛ</Name>
+    <Name>КХЛ </Name>
+    <File>kk-khl_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>kk-kids_co_asia.png</File>
+  </Channel>
+  <Channel>
+    <Name>Кинорейс 1</Name>
+    <File>kk-kinoreys_1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Кинорейс 2</Name>
+    <File>kk-kinoreys_2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Кинорейс 3</Name>
+    <File>kk-kinoreys_3.png</File>
+  </Channel>
+  <Channel>
+    <Name>Кинорейс 5</Name>
+    <File>kk-kinoreys_5.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>kk-komedia_telekanal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>kk-kommersant_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Кухня ТВ</Name>
+    <Name>Кухня ТВ </Name>
+    <File>kk-kuhnya_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>mm-maidan_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Mezzo (Muzzik)</Name>
+    <File>mm-mezzo.png</File>
+  </Channel>
+  <Channel>
+    <Name>Mezzo Live HD</Name>
+    <File>mm-mezzo_live_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>MGM HD</Name>
+    <Name>MGM int.</Name>
+    <File>mm-mgm_ru_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Москва 24</Name>
+    <Name>Москва 24 </Name>
+    <File>mm-moskva_24.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>mm-moskva_doverie.png</File>
+  </Channel>
+  <Channel>
+    <Name>Моя Планета</Name>
+    <Name>Моя планета </Name>
+    <File>mm-moya_planeta.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV</Name>
+    <Name>MTV Russia</Name>
+    <File>mm-mtv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Music Box Ru</Name>
+    <File>mm-music_box_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>National Geographic Channel</Name>
+    <Name>National Geographic</Name>
+    <File>nn-nat_geo_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>National Geographic Channel HD</Name>
+    <File>nn-nat_geo_ru_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>NatGeoWild</Name>
+    <Name>Nat Geo Wild</Name>
+    <File>nn-nat_geo_wild_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Наука 2.0</Name>
+    <Name>Наука 2.0 </Name>
+    <File>nn-nauka20_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nickelodeon</Name>
+    <File>nn-nickelodeon_cis.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nickelodeon Junior</Name>
+    <File>nn-nick_jr_cis.png</File>
+  </Channel>
+  <Channel>
+    <Name>Детский мир/Телеклуб</Name>
+    <File>nn-ntv_plus_detski_mir.png</File>
+  </Channel>
+  <Channel>
+    <Name>Наше кино</Name>
+    <File>nn-ntv_plus_nashe_kino.png</File>
+  </Channel>
+  <Channel>
+    <Name>НТВ</Name>
+    <Name>НТВ</Name>
+    <Name>НТВ </Name>
+    <File>nn-ntv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>НЮ АРТ ТВ</Name>
+    <File>nn-nuart_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>21+ </Name>
+    <File>num-21_plus_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>24ДОК</Name>
+    <File>num-24_dok.png</File>
+  </Channel>
+  <Channel>
+    <Name>24 Техно </Name>
+    <File>num-24_techno.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>num-8kanal_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>9 Волна</Name>
+    <File>num-9volna.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-o2_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Охотник и рыболов </Name>
+    <File>oo-ohotnik_i_rybolov.png</File>
+  </Channel>
+  <Channel>
+    <Name>Охотник и рыболов HD </Name>
+    <File>oo-ohotnik_i_rybolov_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Охота и рыбалка</Name>
+    <File>oo-okhota_i_rybalka.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-oruzhie_telekanal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-ost_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-ots.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-otv_oblastnoe_tv_chelyabinsk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>oo-otv_primorje.png</File>
+  </Channel>
+  <Channel>
+    <Name>Перец</Name>
+    <Name>ПЕРЕЦ</Name>
+    <Name>Перец </Name>
+    <File>pp-peretz_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Первый канал</Name>
+    <Name>Первый</Name>
+    <Name>Первый </Name>
+    <Name>Первый (+2) </Name>
+    <File>pp-perviy_1_kanal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Дом Кино</Name>
+    <Name>Дом Кино </Name>
+    <File>pp-perviy_2_dom_kino.png</File>
+  </Channel>
+  <Channel>
+    <Name>Музыка Первого</Name>
+    <File>pp-perviy_3_muzika.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_4_vremya.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_kanal_asia.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_kanal_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_kanal_sng.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_kanal_ua.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_kanal_us.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-perviy_oblastnoy_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>pp-pervoe_kraevoe_televidenie.png</File>
+  </Channel>
+  <Channel>
+    <Name>Подмосковье</Name>
+    <Name>Подмосковье </Name>
+    <File>pp-podmoskove_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>ПРОСВЕЩЕНИЕ</Name>
+    <File>pp-prosveshchenie.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-r1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Раз ТВ </Name>
+    <File>rr-raz_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>РЕН</Name>
+    <Name>REN-TV</Name>
+    <Name>Рен ТВ </Name>
+    <File>rr-ren_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rodnoy_tbn.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rodnoy_telekanal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Россия 1</Name>
+    <Name>Россия 1 </Name>
+    <File>rr-rossiya_1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rossiya_1_tver.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rossiya_1_yugoria.png</File>
+  </Channel>
+  <Channel>
+    <Name>Россия 2</Name>
+    <Name>Россия 2 </Name>
+    <File>rr-rossiya_2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Россия 24</Name>
+    <Name>Россия 24 </Name>
+    <File>rr-rossiya_24.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rossiya_2_nizhny_novgorod.png</File>
+  </Channel>
+  <Channel>
+    <Name>Россия HD</Name>
+    <File>rr-rossiya_hd_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Россия К</Name>
+    <Name>Россия К </Name>
+    <File>rr-rossiya_kultura.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rostov_papa.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTG TV</Name>
+    <File>rr-rtg_russian_travel_guide.png</File>
+  </Channel>
+  <Channel>
+    <Name>РТР-Планета</Name>
+    <File>rr-rtr_planeta.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtr_planeta_baltics.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtr_planeta_ua.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtr_planeta_us.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtvi_ca.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtvi_eu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtvi_il.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTVi Наше кино</Name>
+    <File>rr-rtvi_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtvi_us.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rtv_podmoskove.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-rt_america.png</File>
+  </Channel>
+  <Channel>
+    <Name>RT (арабский)</Name>
+    <File>rr-rt_arabic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Russia Today</Name>
+    <Name>RT (английский)</Name>
+    <Name>RT (английский)</Name>
+    <File>rr-rt_english.png</File>
+  </Channel>
+  <Channel>
+    <Name>RT (испанский)</Name>
+    <File>rr-rt_espanol.png</File>
+  </Channel>
+  <Channel>
+    <Name>Русский Иллюзион</Name>
+    <File>rr-russkij_illusion.png</File>
+  </Channel>
+  <Channel>
+    <Name>Русский север </Name>
+    <File>rr-russkij_sever.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>rr-russkiy_roman.png</File>
+  </Channel>
+  <Channel>
+    <Name>RUTV</Name>
+    <Name>RU.TV</Name>
+    <Name>РУ ТВ </Name>
+    <File>rr-ru_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>РЖД </Name>
+    <File>rr-rzd_russian_railways.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-sampo_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-setanta_sports_eurasia.png</File>
+  </Channel>
+  <Channel>
+    <Name>SONY ТВ</Name>
+    <File>ss-set_eastern_europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-sgu_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Шансон ТВ </Name>
+    <File>ss-shanson_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-sony_turbo_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-sport1_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>DRIVE</Name>
+    <File>ss-stream_drive.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ретро</Name>
+    <File>ss-stream_retro_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Усадьба</Name>
+    <File>ss-stream_usadba_telekanal.png</File>
+  </Channel>
+  <Channel>
+    <Name>3DOPOBOE TB</Name>
+    <File>ss-stream_zdorovoe_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-sts_international.png</File>
+  </Channel>
+  <Channel>
+    <Name>СТС-Москва</Name>
+    <File>ss-sts_moskva.png</File>
+  </Channel>
+  <Channel>
+    <Name>СТС</Name>
+    <Name>СТС </Name>
+    <Name>СТС-Москва</Name>
+    <File>ss-sts_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Style TV</Name>
+    <File>ss-style_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>SyFy Universal</Name>
+    <File>ss-syfy_universal_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ss-s_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tb_plus.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tcm_ru_see.png</File>
+  </Channel>
+  <Channel>
+    <Name>Teen TV </Name>
+    <File>tt-teen_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-telekanal_futbol.png</File>
+  </Channel>
+  <Channel>
+    <Name>Индия ТВ</Name>
+    <Name>Индия ТВ </Name>
+    <File>tt-telekanal_india.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-telekanal_la_minor.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-telekanal_pilot.png</File>
+  </Channel>
+  <Channel>
+    <Name>Театр ТВ </Name>
+    <File>tt-telekanal_teatr.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-teleklub.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tlc_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>ТНТ</Name>
+    <Name>ТНТ </Name>
+    <File>tt-tnt_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>ТНВ Планета </Name>
+    <Name>ТНВ-Планета</Name>
+    <File>tt-tnv_planeta.png</File>
+  </Channel>
+  <Channel>
+    <Name>TNV</Name>
+    <File>tt-tnv_tatarstan.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tonus_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Top Shop </Name>
+    <Name>TOP SHOP TV</Name>
+    <File>tt-top_shop_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-trk_nadym.png</File>
+  </Channel>
+  <Channel>
+    <Name>ТРО</Name>
+    <Name>ТРО </Name>
+    <File>tt-tro.png</File>
+  </Channel>
+  <Channel>
+    <Name>ТВ3</Name>
+    <Name>ТВ3 </Name>
+    <File>tt-tv3_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_arm_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>ТВЦ</Name>
+    <Name>ТВЦ </Name>
+    <File>tt-tv_centr.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_dalnii_vostok.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_evropa.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_international.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_moskva.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_sibirija.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_centr_ural.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>tt-tv_club_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Universal</Name>
+    <File>uu-universal_channel_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>VH1</Name>
+    <File>vv-vh1_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Viasat Explorer</Name>
+    <File>vv-viasat_explorer_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_sport_baltic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Viasat Sport</Name>
+    <File>vv-viasat_sport_east.png</File>
+  </Channel>
+  <Channel>
+    <Name>TV1000 Action</Name>
+    <File>vv-viasat_tv1000_action_east.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_action_east_plus21.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_comedy.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_comedy_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_megahit.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_megahit_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_premium.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-viasat_tv1000_premium_hd.png</File>
+  </Channel>
+  <Channel>
+    <Name>TV1000 Русское кино</Name>
+    <File>vv-viasat_tv1000_russkoe_kino.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-vot_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>vv-vsegda_s_toboy.png</File>
+  </Channel>
+  <Channel>
+    <Name>World Fashion</Name>
+    <File>ww-world_fashion_channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>ww-world_fashion_channel_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Загородная жизнь</Name>
+    <File>zz-zagorodnaya_zhizn.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>zz-zee_tv_ru.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>zz-znanie.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>zz-zone_reality_europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>zz-zoo_park_tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>Звезда</Name>
+    <Name>Звезда </Name>
+    <File>zz-zvezda_telekanal.png</File>
+  </Channel>
+</Mappings>

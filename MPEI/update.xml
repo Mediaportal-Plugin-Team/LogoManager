@@ -397,5 +397,139 @@
       </ProjectSettings>
       <IsSkin>false</IsSkin>
     </PackageClass>
+    <PackageClass>
+      <Version>2.0</Version>
+      <Groups>
+        <Items>
+          <GroupItem Name="Designs">
+            <DisplayName>Designs</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Designs</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Plugin">
+            <DisplayName>Plugin</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Plugin</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+          <GroupItem Name="Skin">
+            <DisplayName>Skin</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Skin</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+        </Items>
+      </Groups>
+      <Sections>
+        <Items />
+      </Sections>
+      <Dependencies>
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>*</Major>
+              <Minor>*</Minor>
+              <Build>*</Build>
+              <Revision>*</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>*</Major>
+              <Minor>*</Minor>
+              <Build>*</Build>
+              <Revision>*</Revision>
+            </MaxVersion>
+            <WarnOnly>true</WarnOnly>
+            <Message />
+            <Name>MediaPortal</Name>
+            <Condition>None</Condition>
+          </DependencyItem>
+        </Items>
+      </Dependencies>
+      <PluginDependencies>
+        <Items>
+          <PluginDependencyItem AssemblyName="LogoManager.dll">
+            <CompatibleVersion>
+              <Items>
+                <CompatibleVersionItem>
+                  <MinRequiredVersion>1.1.6.27644</MinRequiredVersion>
+                  <DesignedForVersion>1.1.6.27644</DesignedForVersion>
+                </CompatibleVersionItem>
+              </Items>
+            </CompatibleVersion>
+            <SubSystemsUsed>
+              <Items />
+            </SubSystemsUsed>
+          </PluginDependencyItem>
+        </Items>
+      </PluginDependencies>
+      <GeneralInfo>
+        <Name>Logo Manager</Name>
+        <Id>bf0898e0-0866-4f52-be7e-4f504b978944</Id>
+        <Author>Vasilich, Edalex</Author>
+        <HomePage>https://www.assembla.com/spaces/mediaportal/stream</HomePage>
+        <ForumPage>http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-3013.119376/</ForumPage>
+        <UpdateUrl>https://raw.githubusercontent.com/Mediaportal-Plugin-Team/LogoManager/master/MPEI/update.xml</UpdateUrl>
+        <Version>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Build>5</Build>
+          <Revision>24</Revision>
+        </Version>
+        <ExtensionDescription>Multinational plugin for downloading TV and Radio logos from online repositories replacing existing logo packs</ExtensionDescription>
+        <VersionDescription>- Add More Designs
+- Fix Designs destination folder
+- Fixes
+
+</VersionDescription>
+        <DevelopmentStatus>Stable</DevelopmentStatus>
+        <OnlineLocation>https://github.com/Mediaportal-Plugin-Team/LogoManager/releases/download/v1.0.5.24/LogoManager-1.0.5.24.mpe1</OnlineLocation>
+        <ReleaseDate>2024-06-18T16:33:14.2648813+00:00</ReleaseDate>
+        <Tags>logo,logos,tv,radio</Tags>
+        <PlatformCompatibility>AnyCPU</PlatformCompatibility>
+        <Location>LogoManager-[Version].mpe1</Location>
+        <Params>
+          <Items>
+            <SectionParam Name="Online Icon">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
+            </SectionParam>
+            <SectionParam Name="Configuration file">
+              <Value />
+              <ValueType>Template</ValueType>
+              <Description>The file used to configure the extension.
+ If it has .exe extension the will be executed.
+ If it has .dll extension it's started like MP plugin configuration.</Description>
+            </SectionParam>
+            <SectionParam Name="Online Screenshots">
+              <Value>https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1996.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1997.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1998.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/1999.jpg;https://www.team-mediaportal.com/media/com_mtree/images/listings/o/2000.jpg</Value>
+              <ValueType>String</ValueType>
+              <Description>Online stored screenshot urls separated by ; </Description>
+            </SectionParam>
+            <SectionParam Name="Force to uninstall on update">
+              <Value>YES</Value>
+              <ValueType>Bool</ValueType>
+              <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+      </GeneralInfo>
+      <UniqueFileList>
+        <Items />
+      </UniqueFileList>
+      <ProjectSettings>
+        <FolderGroups />
+      </ProjectSettings>
+      <IsSkin>false</IsSkin>
+    </PackageClass>
   </Items>
 </ExtensionCollection>

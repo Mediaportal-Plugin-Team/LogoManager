@@ -226,12 +226,81 @@ jobs:
             name: LogoManager XML
             failOnError: false
 
+  tools:
+    name: LogoManager Plugin / Tools
+    runs-on: windows-2019
+    if: ${{ needs.mpe.outputs.changes == 'true' }}
+    needs:
+      - mpe
+    permissions:
+      contents: write
+    outputs:
+      changes: ${{ needs.mpe.outputs.changes }}
+    steps:
+      - name: Setup Visual Studio 2019
+        uses: microsoft/setup-msbuild@v2
+        with:
+          vs-version: 16.11
+
+      - name: Git Checkout
+        uses: actions/checkout@v4
+
+      - name: Git Checkout / MPE / XPath
+        uses: actions/checkout@v4
+        with:
+          repository: Mediaportal-Plugin-Team/Mediaportal-Tools
+          path: Tools
+
+      - name: Build x86 Tools
+        run: |
+          build.cmd x86 < nul
+        working-directory: ${{ github.workspace }}\build
+        shell: cmd
+
+      - name: Copy x86 Tools to Release folder
+        run: |
+          xcopy /Y LogoManager\ExportToLogos\ExportToLogos\bin\x86\Release\*.exe* LogoManagerTools\x86\
+          xcopy /Y LogoManager\LogoMappingChecker\bin\x86\Release\*.exe* LogoManagerTools\x86\
+          xcopy /Y LogoManager\LogoMappingMaker\bin\x86\Release\*.exe* LogoManagerTools\x86\
+          xcopy /Y LogoManager\LogoMappingUpdater\LogoMappingUpdater\bin\x86\Release*.exe* LogoManagerTools\x86\
+        shell: cmd
+
+      - name: ZIP x86 Tools
+        run: Compress-Archive -Path LogoManagerTools/x86/* -Destination LogoManagerTools/LogoManagerTools.x86.zip
+
+      - name: Build x64 Tools
+        run: |
+          build.cmd x64 < nul
+        working-directory: ${{ github.workspace }}\build
+        shell: cmd
+
+      - name: Copy x64 Tools to Release folder
+        run: |
+          xcopy /Y LogoManager\ExportToLogos\ExportToLogos\bin\x64\Release\*.exe* LogoManagerTools\x64\
+          xcopy /Y LogoManager\LogoMappingChecker\bin\x64\Release\*.exe* LogoManagerTools\x64\
+          xcopy /Y LogoManager\LogoMappingMaker\bin\x64\Release\*.exe* LogoManagerTools\x64\
+          xcopy /Y LogoManager\LogoMappingUpdater\LogoMappingUpdater\bin\x64\Release*.exe* LogoManagerTools\x64\
+        shell: cmd
+
+      - name: ZIP x64 Tools
+        run: Compress-Archive -Path LogoManagerTools/x64/* -Destination LogoManagerTools/LogoManagerTools.x64.zip
+
+      - name: Upload Artifact / Tools
+        uses: actions/upload-artifact@v4
+        if: ${{ success() }}
+        with:
+          name: LogoManager Tools
+          path: |
+            ${{ github.workspace }}\LogoManagerTools\*.zip
+          retention-days: ${{ inputs.retention-build || 90 }}
+
   release:
     name: LogoManager Plugin / Release
     if: ${{ needs.mpe.outputs.changes == 'true' }}
     needs:
       - mpe
       - xml
+      - tools
     permissions:
       contents: write
     outputs:
@@ -252,6 +321,12 @@ jobs:
           name: LogoManager Version Description
           path: release-description
 
+      - name: Download Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: LogoManager Tools
+          path: release-tools
+
       - name: Check Artifacts
         run: |
           ls -l
@@ -266,6 +341,7 @@ jobs:
           generate_release_notes: true
           files: |
             release-files/*.mpe1
+            release-tools/*.zip
 
       - name: Delete MPE1 Artifact
         uses: geekyeggo/delete-artifact@v5
@@ -277,6 +353,12 @@ jobs:
         uses: geekyeggo/delete-artifact@v5
         with:
           name: LogoManager Version Description
+          failOnError: false
+
+      - name: Delete Version Description Artifact
+        uses: geekyeggo/delete-artifact@v5
+        with:
+          name: LogoManager Tools
           failOnError: false
 
   ci-status:

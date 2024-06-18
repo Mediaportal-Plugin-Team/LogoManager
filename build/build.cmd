@@ -3,8 +3,14 @@ CLS
 
 Title Building LogoManager (RELEASE)
 
+IF NOT "%1"=="" (
+  SET ARCH=%1
+) ELSE (
+  SET ARCH=Any CPU
+)
+
 ECHO.
-ECHO Prepare Environment...
+ECHO Prepare Environment (%ARCH%)...
 
 CD ..\LogoManager
 
@@ -24,7 +30,7 @@ set REVISION=%REVISION: =%
 "..\Tools\Tools\sed.exe" -i -r "s/(Assembly(File)?Version\(.[0-9]+\.[0-9]+\.[0-9]+\.)[0-9]+(.\))/\1%REVISION%\3/g" "LogoManager\Properties\AssemblyInfo.cs"
 
 :: Build
-"%MSBUILD_PATH%" /target:Rebuild /property:Configuration=RELEASE /property:Platform="Any CPU" /fl /flp:logfile=LogoManager.log;verbosity=diagnostic LogoManager.sln
+"%MSBUILD_PATH%" /target:Rebuild /property:Configuration=RELEASE /property:Platform="%ARCH%" /fl /flp:logfile="LogoManager-%ARCH%.log";verbosity=diagnostic LogoManager.sln
 
 :: Revert version
 git checkout "LogoManager\Properties\AssemblyInfo.cs"

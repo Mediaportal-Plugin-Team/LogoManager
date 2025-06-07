@@ -24,9 +24,9 @@ on:
 jobs:
   build:
     name: LogoManager Plugin / Build
-    runs-on: windows-2019
+    runs-on: windows-2022
     steps:
-      - name: Setup Visual Studio 2019
+      - name: Setup Visual Studio 2022
         uses: microsoft/setup-msbuild@v2
         with:
           vs-version: 16.11
@@ -70,13 +70,13 @@ jobs:
     outputs:
       changes: ${{ steps.changes.outputs.xmp }}
     steps:
-    - uses: actions/checkout@v4
-    - uses: dorny/paths-filter@v3
-      id: changes
-      with:
-        filters: |
-          xmp:
-            - '**.xmp2'
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v3
+        id: changes
+        with:
+          filters: |
+            xmp:
+              - '**.xmp2'
 
   codeql:
     name: CodeQL
@@ -91,7 +91,7 @@ jobs:
 
   mpe:
     name: LogoManager Plugin / MPE
-    runs-on: windows-2019
+    runs-on: windows-2022
     needs:
       - build
       - changes
@@ -223,12 +223,12 @@ jobs:
       - name: Delete XML Artifact
         uses: geekyeggo/delete-artifact@v5
         with:
-            name: LogoManager XML
-            failOnError: false
+          name: LogoManager XML
+          failOnError: false
 
   tools:
     name: LogoManager Plugin / Tools
-    runs-on: windows-2019
+    runs-on: windows-2022
     if: ${{ needs.mpe.outputs.changes == 'true' }}
     needs:
       - mpe
@@ -237,7 +237,7 @@ jobs:
     outputs:
       changes: ${{ needs.mpe.outputs.changes }}
     steps:
-      - name: Setup Visual Studio 2019
+      - name: Setup Visual Studio 2022
         uses: microsoft/setup-msbuild@v2
         with:
           vs-version: 16.11

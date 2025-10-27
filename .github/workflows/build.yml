@@ -209,7 +209,7 @@ jobs:
           fetch-depth: 0
 
       - name: Download Artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: LogoManager XML
           path: ${{ github.workspace }}/MPEI/
@@ -310,19 +310,19 @@ jobs:
 
     steps:
       - name: Download Artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: LogoManager MPE1
           path: release-files
 
       - name: Download Artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: LogoManager Version Description
           path: release-description
 
       - name: Download Artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: LogoManager Tools
           path: release-tools

@@ -2696,7 +2696,7 @@ public class Script
 {
     public static void Main(PackageClass packageClass, ActionItem actionItem)
     {
-      string oldDll = Path.Combine(MpeInstaller.TransformInRealPath("%Skin%"), @"Windows\LogosManager.dll");
+      string oldDll = Path.Combine(MpeCore.MpeInstaller.TransformInRealPath("%Skin%"), @"Windows\LogosManager.dll");
 
     try
     {
@@ -2706,7 +2706,7 @@ public class Script
      }
     }
     catch {}
-    DirectoryInfo skinroot = new DirectoryInfo(MpeInstaller.TransformInRealPath("%Skin%"));
+    DirectoryInfo skinroot = new DirectoryInfo(MpeCore.MpeInstaller.TransformInRealPath("%Skin%"));
     DirectoryInfo[] skins = skinroot.GetDirectories();
     foreach (DirectoryInfo skin in skins)
    {
@@ -2832,11 +2832,10 @@ public class Script
       <Revision>0</Revision>
     </Version>
     <ExtensionDescription>Multinational plugin for downloading TV and Radio logos from online repositories replacing existing logo packs</ExtensionDescription>
-    <VersionDescription>- Add More Designs
+    <VersionDescription>- Ready for 1.39 Release
+- Add More Designs
 - Fix Designs destination folder
-- Fixes
-
-</VersionDescription>
+- Fixes</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/Mediaportal-Plugin-Team/LogoManager/releases/download/v[Version]/LogoManager-[Version].mpe1</OnlineLocation>
     <ReleaseDate>2024-06-17T17:17:17</ReleaseDate>

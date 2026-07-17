@@ -242,11 +242,6 @@ jobs:
         with:
           vs-version: 16.11
 
-      - name: Install .NET Framework Targeting Packs
-        run: |
-          nuget install Microsoft.NETFramework.ReferenceAssemblies -Version 1.0.3
-          nuget install Microsoft.NETFramework.ReferenceAssemblies.net40 -Version 1.0.3
-
       - name: Git Checkout
         uses: actions/checkout@v7
 
